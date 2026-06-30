@@ -1,0 +1,11 @@
+id,time_utc,timestamp_ms,latitude,longitude,depth_km,magnitude,mag_type,place
+us6000t8yf,2026-06-29 11:01:03,1782730863516,10.8601,-66.8435,10,4.6,mb,"27 km N of Caraballeda, Venezuela"
+us6000t8sx,2026-06-28 09:33:58,1782639238852,10.4497,-68.3766,10,4.3,mb,"19 km WSW of Morón, Venezuela"
+us6000t8su,2026-06-28 08:46:10,1782636370376,10.6806,-68.4901,10,4.5,mb,"20 km W of Boca de Aroa, Venezuela"
+us6000t8q8,2026-06-27 19:20:36,1782588036606,10.6023,-67.5112,10,4.8,mb,"35 km NNE of El Limón, Venezuela"
+us6000t8k6,2026-06-26 22:16:11,1782512171931,10.8,-67.5993,10,4.7,mww,"54 km N of El Limón, Venezuela"
+us6000t8d1,2026-06-26 04:19:30,1782447570378,10.4537,-68.3607,10,4.4,mb,"17 km WSW of Morón, Venezuela"
+us6000t81p,2026-06-25 05:48:23,1782366503136,10.5111,-66.5057,10,4.4,mb,"5 km NE of Guatire, Venezuela"
+us6000t80d,2026-06-24 22:23:53,1782339833774,10.5911,-66.6976,10,4.5,mb,"12 km NNE of Caucagüito, Venezuela"
+us6000t7zp,2026-06-24 22:05:11,1782338711566,10.4351,-68.4716,10,7.5,mww,"28 km SE of Yumare, Venezuela"
+us6000t7zc,2026-06-24 22:04:33,1782338673389,10.436,-68.5277,20.294,7.2,mww,"23 km SE of Yumare, Venezuela"
