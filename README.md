@@ -58,15 +58,3 @@ Upon successful execution, the following outputs will be updated in the `Reports
 *   `simulated_aftershocks_field_parameters.csv` (Table I: MLE parameters fit).
 *   `simulated_aftershocks_correlations.csv` (Statistical summary of coupling correlations).
 
----
-
-## Compiling the Manuscript
-
-The LaTeX sources are in the `Drafts/` directory. To compile the PDF:
-```bash
-pdflatex Drafts/main.tex
-bibtex Drafts/main
-pdflatex Drafts/main.tex
-pdflatex Drafts/main.tex
-```
-This will compile the manuscript as `Drafts/main.pdf`.
