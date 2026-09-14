@@ -1,8 +1,0 @@
-parameter,value,description
-mu,1.930684120079996,Background rate (events/day)
-K0,0.014155680025726392,Productivity scaling factor
-c,0.01860805025959793,Omori time offset (days)
-p,1.0000000014623627,Omori time decay power
-d,9.374416218477363,Spatial scale (km)
-q,1.5573543305025126,Spatial decay power
-alpha,1.538376092586617,Magnitude scaling parameter
