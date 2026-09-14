@@ -1,0 +1,483 @@
+id,time_utc,timestamp_ms,latitude,longitude,depth_km,magnitude,mag_type,place,segment
+reloc_2026_01,2026-06-24 22:04:31,1782353071000,10.371,-68.556,10.0,7.2,Mw,"Yaracuy Fault Zone, Venezuela",Yaracuy
+reloc_2026_02,2026-06-24 22:05:04,1782353104000,10.596,-67.221,10.0,7.5,Mw,"Central Coastal Fault Zone, Venezuela",Central Coast
+aftershock_0001,2026-06-24 22:05:23,1782353123557,10.0653,-68.5891,4.7,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0002,2026-06-24 22:05:28,1782353128424,10.1868,-68.4728,13.7,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0003,2026-06-24 22:05:43,1782353143628,11.1292,-67.085,10.3,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0004,2026-06-24 22:06:07,1782353167780,10.4028,-68.4591,10.4,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0005,2026-06-24 22:06:25,1782353185651,10.1794,-67.3443,8.8,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0006,2026-06-24 22:06:31,1782353191311,10.4222,-68.4887,16.2,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0007,2026-06-24 22:06:40,1782353200132,10.1962,-67.2427,11.7,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0008,2026-06-24 22:07:05,1782353225038,10.7439,-67.2188,4.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0009,2026-06-24 22:07:16,1782353236989,10.0818,-68.537,13.7,3.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0010,2026-06-24 22:07:29,1782353249797,10.6374,-67.2332,13.8,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0011,2026-06-24 22:07:48,1782353268461,10.4915,-67.2641,4.7,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0012,2026-06-24 22:08:15,1782353295800,10.4638,-67.8747,10.7,2.9,mb,Corridor Cluster,Corridor
+aftershock_0013,2026-06-24 22:08:47,1782353327406,10.5487,-68.4766,11.6,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0014,2026-06-24 22:08:59,1782353339834,10.4061,-67.861,12.4,2.6,mb,Corridor Cluster,Corridor
+aftershock_0015,2026-06-24 22:09:12,1782353352234,10.3273,-67.9219,5.1,2.8,mb,Corridor Cluster,Corridor
+aftershock_0016,2026-06-24 22:09:13,1782353353056,10.4809,-68.494,8.3,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0017,2026-06-24 22:09:26,1782353366240,10.3149,-68.5179,11.4,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0018,2026-06-24 22:10:15,1782353415192,10.1184,-67.3583,4.8,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0019,2026-06-24 22:10:26,1782353426774,10.0199,-67.9608,12.5,4.0,Mw,Corridor Cluster,Corridor
+aftershock_0020,2026-06-24 22:11:04,1782353464141,10.6058,-67.1622,14.9,4.3,Mw,Central Coast Cluster,Central Coast
+aftershock_0021,2026-06-24 22:11:24,1782353484049,10.8393,-67.1801,4.1,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0022,2026-06-24 22:11:36,1782353496251,10.1446,-67.2504,9.0,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0023,2026-06-24 22:11:42,1782353502237,10.1411,-68.4763,3.2,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0024,2026-06-24 22:12:26,1782353546657,10.3028,-67.3224,9.3,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0025,2026-06-24 22:12:27,1782353547273,11.2704,-67.6769,14.1,3.0,mb,Corridor Cluster,Corridor
+aftershock_0026,2026-06-24 22:12:59,1782353579211,11.0073,-67.0828,8.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0027,2026-06-24 22:13:27,1782353607303,10.4838,-68.442,8.3,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0028,2026-06-24 22:13:28,1782353608352,10.4344,-67.9302,8.0,3.2,mb,Corridor Cluster,Corridor
+aftershock_0029,2026-06-24 22:13:37,1782353617936,10.6834,-67.1585,7.5,3.7,mb,Central Coast Cluster,Central Coast
+aftershock_0030,2026-06-24 22:13:44,1782353624102,10.4386,-67.3384,16.3,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0031,2026-06-24 22:14:54,1782353694593,10.2975,-68.5483,11.9,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0032,2026-06-24 22:14:57,1782353697487,10.8753,-67.1389,7.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0033,2026-06-24 22:16:04,1782353764443,10.5516,-68.4101,7.1,3.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0034,2026-06-24 22:16:22,1782353782985,10.3628,-68.4697,10.8,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0035,2026-06-24 22:16:30,1782353790782,9.2727,-68.0187,14.2,2.5,mb,Corridor Cluster,Corridor
+aftershock_0036,2026-06-24 22:17:53,1782353873735,10.4514,-68.5272,16.5,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0037,2026-06-24 22:18:16,1782353896884,10.4252,-68.5089,13.3,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0038,2026-06-24 22:19:24,1782353964987,10.6325,-67.8648,11.8,3.2,mb,Corridor Cluster,Corridor
+aftershock_0039,2026-06-24 22:19:44,1782353984417,10.8769,-67.2601,7.7,4.3,Mw,Central Coast Cluster,Central Coast
+aftershock_0040,2026-06-24 22:19:54,1782353994453,10.6442,-67.8126,10.5,2.6,mb,Corridor Cluster,Corridor
+aftershock_0041,2026-06-24 22:20:20,1782354020127,10.2258,-68.5556,11.5,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0042,2026-06-24 22:20:37,1782354037127,10.7048,-67.1951,10.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0043,2026-06-24 22:20:41,1782354041225,10.7765,-67.0729,15.2,3.9,mb,Central Coast Cluster,Central Coast
+aftershock_0044,2026-06-24 22:20:49,1782354049604,10.4189,-68.5066,15.5,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0045,2026-06-24 22:21:30,1782354090225,10.8842,-67.7055,10.6,3.3,mb,Corridor Cluster,Corridor
+aftershock_0046,2026-06-24 22:21:55,1782354115235,10.4697,-68.5478,6.4,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0047,2026-06-24 22:22:44,1782354164946,9.9879,-68.6262,8.3,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0048,2026-06-24 22:23:22,1782354202555,10.5192,-67.8147,11.3,2.6,mb,Corridor Cluster,Corridor
+aftershock_0049,2026-06-24 22:23:33,1782354213244,10.5417,-67.0656,12.6,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0050,2026-06-24 22:23:33,1782354213831,10.5889,-68.3732,3.0,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0051,2026-06-24 22:23:46,1782354226193,10.5208,-68.5336,13.9,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0052,2026-06-24 22:23:55,1782354235261,10.6607,-68.4884,9.7,5.9,Mw,Yaracuy Cluster,Yaracuy
+aftershock_0053,2026-06-24 22:24:51,1782354291895,10.1214,-68.645,13.1,4.9,Mw,Yaracuy Cluster,Yaracuy
+aftershock_0054,2026-06-24 22:25:24,1782354324796,10.3122,-68.4339,15.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0055,2026-06-24 22:25:41,1782354341723,10.654,-67.8179,10.9,3.1,mb,Corridor Cluster,Corridor
+aftershock_0056,2026-06-24 22:25:43,1782354343216,10.548,-67.2497,11.6,3.7,mb,Central Coast Cluster,Central Coast
+aftershock_0057,2026-06-24 22:26:17,1782354377089,10.3621,-67.2649,14.4,3.3,mb,Central Coast Cluster,Central Coast
+aftershock_0058,2026-06-24 22:26:27,1782354387844,10.7176,-67.1312,16.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0059,2026-06-24 22:26:33,1782354393636,10.2093,-68.5275,4.4,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0060,2026-06-24 22:26:42,1782354402351,10.7392,-67.1437,3.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0061,2026-06-24 22:27:34,1782354454583,10.3253,-68.4659,18.7,3.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0062,2026-06-24 22:27:44,1782354464156,10.2708,-68.5654,11.5,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0063,2026-06-24 22:27:47,1782354467293,10.5869,-67.1617,9.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0064,2026-06-24 22:28:44,1782354524876,10.341,-67.8743,5.9,3.0,mb,Corridor Cluster,Corridor
+aftershock_0065,2026-06-24 22:28:51,1782354531693,10.7561,-67.2991,6.9,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0066,2026-06-24 22:28:58,1782354538608,10.3677,-68.4394,9.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0067,2026-06-24 22:29:31,1782354571583,10.8608,-67.1983,8.3,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0068,2026-06-24 22:31:08,1782354668804,10.2882,-68.5997,13.2,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0069,2026-06-24 22:31:53,1782354713899,10.7663,-68.4519,11.4,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0070,2026-06-24 22:32:18,1782354738077,10.7872,-67.2416,8.1,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0071,2026-06-24 22:33:06,1782354786672,10.4047,-68.5518,9.3,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0072,2026-06-24 22:33:58,1782354838631,10.9584,-67.2602,10.7,3.3,mb,Central Coast Cluster,Central Coast
+aftershock_0073,2026-06-24 22:34:03,1782354843085,10.141,-68.5081,12.2,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0074,2026-06-24 22:34:24,1782354864931,10.9102,-67.2681,11.5,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0075,2026-06-24 22:34:35,1782354875070,10.1315,-68.5764,8.2,3.4,mb,Yaracuy Cluster,Yaracuy
+aftershock_0076,2026-06-24 22:34:49,1782354889221,10.4132,-68.4767,4.2,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0077,2026-06-24 22:35:03,1782354903757,10.8091,-67.8363,3.5,2.6,mb,Corridor Cluster,Corridor
+aftershock_0078,2026-06-24 22:35:21,1782354921119,10.177,-68.5477,13.7,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0079,2026-06-24 22:35:27,1782354927204,10.3657,-68.6093,4.3,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0080,2026-06-24 22:36:16,1782354976378,10.4713,-67.3276,14.8,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0081,2026-06-24 22:38:12,1782355092848,10.6945,-67.1346,11.1,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0082,2026-06-24 22:42:28,1782355348585,10.532,-67.2506,8.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0083,2026-06-24 22:43:18,1782355398898,9.8883,-68.5993,6.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0084,2026-06-24 22:43:34,1782355414080,10.4257,-68.4113,14.1,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0085,2026-06-24 22:43:55,1782355435801,10.1983,-67.2515,3.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0086,2026-06-24 22:44:49,1782355489783,10.6462,-67.0812,8.5,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0087,2026-06-24 22:45:40,1782355540157,10.3917,-67.2737,13.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0088,2026-06-24 22:50:47,1782355847426,10.9177,-67.1711,11.5,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0089,2026-06-24 22:50:48,1782355848120,10.527,-67.2399,8.9,3.5,mb,Central Coast Cluster,Central Coast
+aftershock_0090,2026-06-24 22:51:00,1782355860170,10.2582,-68.564,10.2,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0091,2026-06-24 22:53:08,1782355988155,10.3309,-68.4438,9.3,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0092,2026-06-24 22:53:20,1782356000456,10.7259,-67.2429,11.2,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0093,2026-06-24 22:53:32,1782356012619,10.0978,-67.4974,7.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0094,2026-06-24 22:54:11,1782356051828,10.4689,-68.5501,6.4,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0095,2026-06-24 22:57:34,1782356254223,10.4231,-68.451,13.8,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0096,2026-06-24 22:58:06,1782356286898,10.3435,-68.5577,11.7,3.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0097,2026-06-24 22:59:32,1782356372833,10.4867,-67.9505,13.4,2.6,mb,Corridor Cluster,Corridor
+aftershock_0098,2026-06-24 22:59:35,1782356375828,10.6922,-67.2623,14.2,3.6,mb,Central Coast Cluster,Central Coast
+aftershock_0099,2026-06-24 23:00:10,1782356410708,10.1509,-68.638,7.3,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0100,2026-06-24 23:01:41,1782356501185,10.6752,-67.1822,11.2,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0101,2026-06-24 23:01:52,1782356512144,10.6099,-67.9,12.0,2.8,mb,Corridor Cluster,Corridor
+aftershock_0102,2026-06-24 23:04:20,1782356660711,10.4594,-68.5567,5.7,4.1,Mw,Yaracuy Cluster,Yaracuy
+aftershock_0103,2026-06-24 23:05:15,1782356715346,10.7925,-67.2112,14.5,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0104,2026-06-24 23:06:06,1782356766032,10.3116,-68.4998,10.1,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0105,2026-06-24 23:07:04,1782356824840,10.076,-68.4517,6.9,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0106,2026-06-24 23:07:06,1782356826673,10.6997,-68.4029,5.4,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0107,2026-06-24 23:12:24,1782357144652,10.3995,-68.4521,13.8,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0108,2026-06-24 23:12:45,1782357165407,11.0047,-67.1984,8.9,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0109,2026-06-24 23:12:52,1782357172686,10.4834,-67.2191,6.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0110,2026-06-24 23:14:37,1782357277508,10.0486,-68.619,18.5,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0111,2026-06-24 23:15:14,1782357314737,10.7811,-67.209,9.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0112,2026-06-24 23:23:51,1782357831326,10.6086,-67.789,9.0,2.9,mb,Corridor Cluster,Corridor
+aftershock_0113,2026-06-24 23:26:21,1782357981662,10.3651,-67.1715,13.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0114,2026-06-24 23:31:02,1782358262715,10.4531,-67.2912,4.5,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0115,2026-06-24 23:32:11,1782358331102,10.4262,-67.1178,9.5,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0116,2026-06-24 23:32:42,1782358362293,10.5605,-67.2145,5.3,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0117,2026-06-24 23:34:26,1782358466485,10.6297,-67.1281,14.9,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0118,2026-06-24 23:35:34,1782358534731,10.5823,-67.212,8.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0119,2026-06-24 23:36:15,1782358575988,10.8991,-67.7956,9.0,2.6,mb,Corridor Cluster,Corridor
+aftershock_0120,2026-06-24 23:43:13,1782358993772,10.4423,-68.4018,16.1,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0121,2026-06-24 23:43:33,1782359013592,10.5386,-67.2642,12.6,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0122,2026-06-24 23:45:12,1782359112600,10.2151,-68.5093,14.4,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0123,2026-06-24 23:47:12,1782359232243,10.6518,-67.1353,17.8,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0124,2026-06-24 23:47:22,1782359242942,10.1084,-68.5847,11.4,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0125,2026-06-24 23:49:05,1782359345688,10.6522,-68.5491,4.6,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0126,2026-06-24 23:52:28,1782359548532,10.4271,-68.4846,19.0,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0127,2026-06-24 23:53:54,1782359634814,10.6162,-67.7868,5.0,2.6,mb,Corridor Cluster,Corridor
+aftershock_0128,2026-06-24 23:54:47,1782359687832,10.1171,-67.3256,15.7,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0129,2026-06-24 23:56:14,1782359774461,10.1241,-68.5,7.9,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0130,2026-06-25 00:02:10,1782360130920,10.5523,-67.225,4.6,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0131,2026-06-25 00:03:00,1782360180683,10.6578,-67.9262,5.9,2.5,mb,Corridor Cluster,Corridor
+aftershock_0132,2026-06-25 00:09:32,1782360572153,10.3045,-67.371,11.5,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0133,2026-06-25 00:15:30,1782360930744,10.6164,-67.1487,6.5,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0134,2026-06-25 00:16:04,1782360964406,10.7598,-67.1639,6.8,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0135,2026-06-25 00:24:13,1782361453623,10.9217,-67.0569,8.1,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0136,2026-06-25 00:25:42,1782361542687,10.0778,-68.6254,10.5,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0137,2026-06-25 00:26:41,1782361601147,10.4109,-67.2494,8.2,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0138,2026-06-25 00:26:52,1782361612494,10.7012,-67.2325,13.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0139,2026-06-25 00:27:57,1782361677151,10.1288,-68.4883,7.5,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0140,2026-06-25 00:28:09,1782361689835,10.3817,-67.7741,11.8,3.1,mb,Corridor Cluster,Corridor
+aftershock_0141,2026-06-25 00:31:29,1782361889971,10.8253,-68.3508,12.9,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0142,2026-06-25 00:32:32,1782361952987,10.609,-67.2042,9.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0143,2026-06-25 00:33:33,1782362013312,10.4994,-68.5137,8.2,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0144,2026-06-25 00:37:30,1782362250387,10.3244,-68.5407,6.9,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0145,2026-06-25 00:39:21,1782362361421,10.3827,-68.5081,9.2,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0146,2026-06-25 00:40:30,1782362430825,10.5479,-67.8368,12.9,2.7,mb,Corridor Cluster,Corridor
+aftershock_0147,2026-06-25 00:41:52,1782362512242,10.4399,-67.2659,3.0,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0148,2026-06-25 00:42:21,1782362541500,10.3775,-68.4615,9.3,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0149,2026-06-25 00:43:27,1782362607605,10.4806,-68.4838,3.7,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0150,2026-06-25 00:51:57,1782363117164,10.423,-67.1644,9.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0151,2026-06-25 00:56:33,1782363393644,10.7227,-67.0872,6.6,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0152,2026-06-25 00:57:04,1782363424607,10.4582,-68.4715,15.2,3.4,mb,Yaracuy Cluster,Yaracuy
+aftershock_0153,2026-06-25 01:06:08,1782363968939,10.2436,-68.4973,8.7,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0154,2026-06-25 01:07:12,1782364032897,10.2128,-68.5041,10.6,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0155,2026-06-25 01:11:07,1782364267976,10.2182,-67.3322,11.7,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0156,2026-06-25 01:15:00,1782364500545,10.8516,-68.3318,9.2,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0157,2026-06-25 01:16:39,1782364599913,10.6284,-68.4351,13.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0158,2026-06-25 01:18:09,1782364689929,10.5291,-68.4368,3.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0159,2026-06-25 01:18:41,1782364721381,10.5487,-68.42,10.4,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0160,2026-06-25 01:19:50,1782364790140,10.1275,-68.5418,12.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0161,2026-06-25 01:20:58,1782364858764,9.9668,-68.6966,5.8,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0162,2026-06-25 01:24:25,1782365065478,10.3595,-68.4913,16.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0163,2026-06-25 01:24:49,1782365089101,10.1567,-68.3989,11.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0164,2026-06-25 01:28:00,1782365280522,10.5456,-67.8045,13.6,2.7,mb,Corridor Cluster,Corridor
+aftershock_0165,2026-06-25 01:28:14,1782365294846,10.1856,-67.2442,9.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0166,2026-06-25 01:28:21,1782365301611,10.8449,-67.2096,11.0,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0167,2026-06-25 01:33:44,1782365624026,10.438,-67.2405,5.8,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0168,2026-06-25 01:37:29,1782365849219,10.6405,-67.336,10.5,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0169,2026-06-25 01:49:09,1782366549907,10.4166,-68.4641,7.2,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0170,2026-06-25 01:49:50,1782366590622,10.6639,-68.5213,7.7,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0171,2026-06-25 01:51:42,1782366702081,10.4791,-67.1903,11.0,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0172,2026-06-25 01:54:55,1782366895215,10.4309,-67.3006,7.4,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0173,2026-06-25 01:55:24,1782366924053,10.2732,-67.2219,11.0,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0174,2026-06-25 02:10:46,1782367846865,10.3685,-67.2732,17.6,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0175,2026-06-25 02:14:07,1782368047507,10.7041,-68.5507,12.6,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0176,2026-06-25 02:24:18,1782368658186,10.7475,-67.148,7.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0177,2026-06-25 02:25:54,1782368754573,10.2639,-67.8231,3.9,2.6,mb,Corridor Cluster,Corridor
+aftershock_0178,2026-06-25 02:29:28,1782368968040,10.0986,-67.2727,9.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0179,2026-06-25 02:31:37,1782369097220,10.0259,-67.9764,11.1,2.9,mb,Corridor Cluster,Corridor
+aftershock_0180,2026-06-25 02:33:05,1782369185926,10.6661,-67.1765,11.0,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0181,2026-06-25 02:40:29,1782369629058,10.9091,-67.1355,13.1,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0182,2026-06-25 02:46:29,1782369989598,10.7903,-67.1793,5.5,4.3,Mw,Central Coast Cluster,Central Coast
+aftershock_0183,2026-06-25 02:49:31,1782370171102,10.4467,-67.8515,12.8,2.9,mb,Corridor Cluster,Corridor
+aftershock_0184,2026-06-25 02:49:40,1782370180177,10.5081,-68.5511,10.1,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0185,2026-06-25 02:55:03,1782370503427,11.2021,-67.1703,3.4,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0186,2026-06-25 02:56:09,1782370569942,10.6292,-67.2484,11.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0187,2026-06-25 02:59:20,1782370760618,10.4465,-67.2611,9.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0188,2026-06-25 03:04:37,1782371077220,10.3636,-68.4884,7.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0189,2026-06-25 03:05:15,1782371115443,10.6497,-67.0917,12.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0190,2026-06-25 03:05:25,1782371125745,10.6959,-68.5154,7.9,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0191,2026-06-25 03:06:02,1782371162452,10.2153,-67.1892,8.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0192,2026-06-25 03:07:44,1782371264200,10.2122,-67.9849,8.6,3.4,mb,Corridor Cluster,Corridor
+aftershock_0193,2026-06-25 03:09:21,1782371361366,9.9071,-68.025,15.9,2.5,mb,Corridor Cluster,Corridor
+aftershock_0194,2026-06-25 03:31:18,1782372678656,10.1914,-68.4385,14.4,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0195,2026-06-25 03:33:54,1782372834261,10.6362,-67.1342,17.7,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0196,2026-06-25 03:35:32,1782372932862,10.3219,-68.6024,17.0,4.2,Mw,Yaracuy Cluster,Yaracuy
+aftershock_0197,2026-06-25 03:39:18,1782373158239,11.0292,-67.1923,7.8,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0198,2026-06-25 03:40:38,1782373238555,10.802,-67.1062,10.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0199,2026-06-25 03:42:01,1782373321902,10.605,-68.419,13.3,3.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0200,2026-06-25 03:52:31,1782373951976,10.7608,-67.0905,9.3,3.3,mb,Central Coast Cluster,Central Coast
+aftershock_0201,2026-06-25 04:07:38,1782374858942,10.1859,-68.5242,11.7,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0202,2026-06-25 04:38:44,1782376724821,10.2379,-67.191,16.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0203,2026-06-25 04:43:12,1782376992389,10.5137,-67.2338,14.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0204,2026-06-25 04:50:16,1782377416660,10.3237,-68.623,15.4,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0205,2026-06-25 05:05:52,1782378352466,10.0521,-68.4845,8.2,3.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0206,2026-06-25 05:13:11,1782378791848,10.8015,-67.1874,9.5,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0207,2026-06-25 05:29:05,1782379745120,10.5918,-68.449,8.7,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0208,2026-06-25 05:39:18,1782380358400,10.6887,-67.1012,3.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0209,2026-06-25 05:40:51,1782380451698,10.4106,-68.4698,3.0,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0210,2026-06-25 05:43:10,1782380590795,10.5515,-67.1658,11.6,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0211,2026-06-25 05:46:06,1782380766980,10.6942,-67.1426,11.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0212,2026-06-25 05:56:58,1782381418715,10.3953,-68.4894,9.3,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0213,2026-06-25 06:04:08,1782381848079,10.4446,-68.4734,7.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0214,2026-06-25 06:23:54,1782383034128,10.3819,-67.3446,9.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0215,2026-06-25 06:28:34,1782383314747,10.2559,-68.5193,10.4,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0216,2026-06-25 06:34:05,1782383645554,10.1326,-68.5867,9.0,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0217,2026-06-25 07:02:42,1782385362356,10.4244,-68.4957,12.5,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0218,2026-06-25 07:36:10,1782387370246,10.3747,-68.404,8.1,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0219,2026-06-25 07:46:08,1782387968412,10.3226,-67.2892,5.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0220,2026-06-25 08:21:01,1782390061225,11.2983,-67.6237,14.1,2.8,mb,Corridor Cluster,Corridor
+aftershock_0221,2026-06-25 08:36:11,1782390971686,10.2719,-68.4843,12.2,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0222,2026-06-25 08:54:17,1782392057394,10.4725,-67.1503,10.2,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0223,2026-06-25 09:00:48,1782392448969,10.3795,-67.8755,11.3,2.7,mb,Corridor Cluster,Corridor
+aftershock_0224,2026-06-25 09:04:29,1782392669467,10.7513,-68.3674,3.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0225,2026-06-25 10:29:58,1782397798820,10.2938,-68.6359,16.2,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0226,2026-06-25 10:42:58,1782398578923,10.3354,-67.2481,7.5,4.4,Mw,Central Coast Cluster,Central Coast
+aftershock_0227,2026-06-25 10:48:28,1782398908323,10.4336,-67.2252,7.8,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0228,2026-06-25 10:49:07,1782398947721,10.4955,-68.4485,6.7,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0229,2026-06-25 10:56:19,1782399379346,10.2309,-67.2718,8.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0230,2026-06-25 11:00:11,1782399611439,10.7417,-67.2378,9.7,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0231,2026-06-25 11:04:54,1782399894158,10.3507,-67.2436,13.6,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0232,2026-06-25 11:17:57,1782400677438,10.4807,-68.4874,5.0,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0233,2026-06-25 11:45:34,1782402334471,10.4628,-68.567,14.2,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0234,2026-06-25 11:52:59,1782402779535,10.487,-68.4835,13.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0235,2026-06-25 11:53:16,1782402796266,10.5897,-68.5012,12.9,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0236,2026-06-25 11:56:19,1782402979100,10.3297,-67.8595,8.6,3.6,mb,Corridor Cluster,Corridor
+aftershock_0237,2026-06-25 12:10:34,1782403834453,10.4425,-68.5336,9.3,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0238,2026-06-25 12:33:26,1782405206713,10.3025,-67.2542,14.9,3.9,mb,Central Coast Cluster,Central Coast
+aftershock_0239,2026-06-25 12:48:47,1782406127844,10.571,-67.8317,14.0,2.6,mb,Corridor Cluster,Corridor
+aftershock_0240,2026-06-25 12:53:02,1782406382637,10.6784,-68.4342,13.5,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0241,2026-06-25 12:58:25,1782406705862,10.3743,-68.483,16.3,3.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0242,2026-06-25 13:13:59,1782407639233,10.5589,-67.846,8.8,2.6,mb,Corridor Cluster,Corridor
+aftershock_0243,2026-06-25 13:29:15,1782408555834,10.4319,-68.5076,16.3,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0244,2026-06-25 13:44:31,1782409471903,10.4597,-68.5644,9.6,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0245,2026-06-25 13:48:02,1782409682195,10.5494,-67.0497,8.3,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0246,2026-06-25 13:57:49,1782410269241,10.5938,-68.5117,11.9,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0247,2026-06-25 14:14:43,1782411283636,10.2432,-68.4973,7.7,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0248,2026-06-25 14:18:34,1782411514531,10.0951,-67.3755,15.3,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0249,2026-06-25 14:21:27,1782411687307,10.3604,-68.5763,10.1,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0250,2026-06-25 14:34:39,1782412479160,10.3871,-68.4252,14.2,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0251,2026-06-25 14:58:32,1782413912813,10.5034,-67.2543,8.2,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0252,2026-06-25 15:14:41,1782414881889,10.8006,-67.1736,16.8,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0253,2026-06-25 15:29:02,1782415742252,10.5792,-68.3829,12.5,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0254,2026-06-25 16:07:13,1782418033103,10.7759,-67.1981,9.2,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0255,2026-06-25 16:39:06,1782419946317,10.3544,-67.254,4.0,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0256,2026-06-25 16:50:54,1782420654229,9.6763,-67.8814,13.0,3.4,mb,Corridor Cluster,Corridor
+aftershock_0257,2026-06-25 17:09:30,1782421770238,10.4072,-67.815,9.2,2.7,mb,Corridor Cluster,Corridor
+aftershock_0258,2026-06-25 17:09:59,1782421799065,10.6298,-67.8496,9.1,3.2,mb,Corridor Cluster,Corridor
+aftershock_0259,2026-06-25 17:37:36,1782423456595,10.8211,-67.1236,12.3,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0260,2026-06-25 17:48:07,1782424087955,10.2901,-68.5365,16.4,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0261,2026-06-25 18:07:52,1782425272094,9.9585,-68.5545,4.4,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0262,2026-06-25 18:12:43,1782425563662,10.5487,-68.5264,16.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0263,2026-06-25 18:15:43,1782425743057,10.7275,-67.7734,10.3,3.1,mb,Corridor Cluster,Corridor
+aftershock_0264,2026-06-25 18:59:22,1782428362572,10.3196,-67.8818,14.1,2.8,mb,Corridor Cluster,Corridor
+aftershock_0265,2026-06-25 19:04:31,1782428671598,10.4574,-68.5555,10.9,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0266,2026-06-25 19:13:18,1782429198244,10.7667,-67.1841,13.5,3.5,mb,Central Coast Cluster,Central Coast
+aftershock_0267,2026-06-25 19:30:04,1782430204262,10.1282,-67.2343,15.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0268,2026-06-25 19:47:05,1782431225962,10.5082,-67.2064,13.3,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0269,2026-06-25 20:18:13,1782433093050,10.9341,-67.2654,6.4,3.5,mb,Central Coast Cluster,Central Coast
+aftershock_0270,2026-06-25 21:37:44,1782437864486,10.7975,-67.1477,7.0,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0271,2026-06-25 21:58:20,1782439100023,10.7104,-67.1907,15.2,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0272,2026-06-25 22:38:54,1782441534631,10.7489,-67.1295,10.7,3.7,mb,Central Coast Cluster,Central Coast
+aftershock_0273,2026-06-25 23:03:57,1782443037978,10.2518,-68.3863,9.2,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0274,2026-06-25 23:21:49,1782444109661,9.9063,-68.4901,12.7,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0275,2026-06-25 23:39:14,1782445154066,10.3257,-68.5082,13.8,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0276,2026-06-26 00:45:27,1782449127378,10.4293,-67.0968,10.4,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0277,2026-06-26 01:17:49,1782451069660,10.2098,-67.8878,6.9,2.9,mb,Corridor Cluster,Corridor
+aftershock_0278,2026-06-26 02:28:08,1782455288310,10.4394,-68.5533,10.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0279,2026-06-26 02:28:59,1782455339228,10.4899,-67.173,5.2,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0280,2026-06-26 02:50:46,1782456646536,9.9702,-68.5868,11.8,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0281,2026-06-26 04:11:48,1782461508688,10.8293,-67.121,10.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0282,2026-06-26 04:23:19,1782462199874,10.4393,-67.2092,6.9,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0283,2026-06-26 05:01:10,1782464470715,10.3689,-67.2189,15.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0284,2026-06-26 06:25:56,1782469556840,10.2613,-68.5055,7.7,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0285,2026-06-26 06:44:15,1782470655834,10.9128,-67.8324,14.1,2.5,mb,Corridor Cluster,Corridor
+aftershock_0286,2026-06-26 07:17:53,1782472673075,10.0017,-68.6081,10.8,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0287,2026-06-26 07:54:27,1782474867832,10.7054,-67.2267,10.2,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0288,2026-06-26 07:56:43,1782475003718,10.2083,-68.5265,9.3,3.4,mb,Yaracuy Cluster,Yaracuy
+aftershock_0289,2026-06-26 08:51:35,1782478295644,10.9452,-68.369,3.1,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0290,2026-06-26 09:06:31,1782479191221,10.7994,-67.2338,11.5,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0291,2026-06-26 09:49:03,1782481743967,11.0621,-67.0655,6.7,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0292,2026-06-26 11:15:43,1782486943937,10.3367,-67.3454,9.1,3.3,mb,Central Coast Cluster,Central Coast
+aftershock_0293,2026-06-26 11:23:28,1782487408123,10.1257,-67.2344,3.6,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0294,2026-06-26 12:12:44,1782490364762,10.9124,-67.2183,13.9,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0295,2026-06-26 13:13:35,1782494015179,10.3025,-68.4379,6.6,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0296,2026-06-26 13:57:58,1782496678214,10.2905,-68.5939,14.9,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0297,2026-06-26 14:12:16,1782497536676,10.3299,-68.4636,13.9,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0298,2026-06-26 14:21:55,1782498115608,10.282,-67.1683,7.9,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0299,2026-06-26 14:38:24,1782499104206,11.1279,-67.7123,9.8,3.0,mb,Corridor Cluster,Corridor
+aftershock_0300,2026-06-26 14:44:41,1782499481708,10.1273,-68.5761,10.0,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0301,2026-06-26 14:47:19,1782499639304,10.1283,-68.5206,3.7,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0302,2026-06-26 15:20:11,1782501611275,10.3637,-67.9059,8.8,2.8,mb,Corridor Cluster,Corridor
+aftershock_0303,2026-06-26 15:48:13,1782503293543,10.1877,-67.1671,11.9,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0304,2026-06-26 16:10:09,1782504609993,9.9463,-68.6803,17.8,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0305,2026-06-26 16:12:55,1782504775587,10.5588,-67.2945,6.3,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0306,2026-06-26 17:51:47,1782510707356,10.179,-68.5234,8.3,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0307,2026-06-26 18:00:32,1782511232808,10.3884,-68.5269,13.4,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0308,2026-06-26 18:20:17,1782512417504,9.9963,-68.6923,6.8,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0309,2026-06-26 19:03:39,1782515019600,10.6857,-67.2488,16.9,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0310,2026-06-26 19:10:37,1782515437302,10.6094,-68.4294,9.6,3.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0311,2026-06-26 20:39:08,1782520748447,10.2126,-67.2854,10.9,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0312,2026-06-26 20:49:20,1782521360477,11.0925,-67.7576,8.6,2.9,mb,Corridor Cluster,Corridor
+aftershock_0313,2026-06-26 20:57:21,1782521841564,10.2349,-68.577,9.6,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0314,2026-06-26 21:46:15,1782524775653,10.0856,-67.9767,9.8,2.9,mb,Corridor Cluster,Corridor
+aftershock_0315,2026-06-27 00:09:37,1782533377432,10.219,-67.2073,12.2,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0316,2026-06-27 00:37:54,1782535074201,10.1906,-68.4015,21.0,3.4,mb,Yaracuy Cluster,Yaracuy
+aftershock_0317,2026-06-27 01:12:02,1782537122568,10.9016,-67.1229,11.5,3.6,mb,Central Coast Cluster,Central Coast
+aftershock_0318,2026-06-27 01:17:43,1782537463572,10.9925,-67.7496,9.5,2.8,mb,Corridor Cluster,Corridor
+aftershock_0319,2026-06-27 02:20:24,1782541224029,10.8801,-67.7691,9.5,3.0,mb,Corridor Cluster,Corridor
+aftershock_0320,2026-06-27 02:47:12,1782542832807,10.8649,-67.1999,10.7,3.6,mb,Central Coast Cluster,Central Coast
+aftershock_0321,2026-06-27 06:54:27,1782557667399,10.7915,-68.411,13.3,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0322,2026-06-27 07:05:53,1782558353435,10.5985,-68.4005,5.2,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0323,2026-06-27 09:40:27,1782567627755,10.3627,-67.1932,8.1,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0324,2026-06-27 12:35:36,1782578136355,10.5631,-68.5101,11.8,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0325,2026-06-27 13:16:19,1782580579416,10.7007,-67.14,12.4,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0326,2026-06-27 17:07:29,1782594449664,10.907,-67.1708,13.7,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0327,2026-06-27 17:41:43,1782596503254,10.192,-68.5299,4.3,3.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0328,2026-06-27 20:11:04,1782605464361,10.008,-68.5155,8.9,3.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0329,2026-06-27 20:13:08,1782605588904,10.6151,-67.2406,8.4,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0330,2026-06-27 20:39:39,1782607179434,10.5518,-67.2554,13.3,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0331,2026-06-27 20:50:08,1782607808763,10.3276,-68.4642,6.5,4.2,Mw,Yaracuy Cluster,Yaracuy
+aftershock_0332,2026-06-27 23:22:02,1782616922387,10.2132,-68.5782,9.3,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0333,2026-06-28 00:01:17,1782619277329,10.0348,-68.551,10.3,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0334,2026-06-28 00:21:46,1782620506939,10.6225,-67.2928,5.4,3.5,mb,Central Coast Cluster,Central Coast
+aftershock_0335,2026-06-28 00:43:04,1782621784967,10.3822,-68.559,17.7,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0336,2026-06-28 01:08:40,1782623320149,10.2722,-67.2727,8.3,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0337,2026-06-28 02:53:46,1782629626721,10.5586,-68.5008,10.8,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0338,2026-06-28 03:19:10,1782631150930,10.9555,-67.1652,8.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0339,2026-06-28 04:09:48,1782634188748,9.9725,-68.5684,11.2,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0340,2026-06-28 07:05:20,1782644720904,10.1561,-68.4876,13.9,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0341,2026-06-28 07:52:02,1782647522406,10.2345,-68.5248,13.3,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0342,2026-06-28 08:51:56,1782651116323,10.1548,-68.5882,7.0,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0343,2026-06-28 14:56:08,1782672968631,10.3028,-68.4645,12.6,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0344,2026-06-28 17:47:43,1782683263341,10.267,-68.5342,10.7,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0345,2026-06-28 17:54:29,1782683669033,10.3289,-68.5533,9.8,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0346,2026-06-28 19:41:34,1782690094547,10.8142,-68.5084,13.2,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0347,2026-06-28 20:21:59,1782692519938,10.4746,-68.4318,10.7,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0348,2026-06-28 20:52:49,1782694369545,10.6186,-67.203,10.7,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0349,2026-06-28 22:57:30,1782701850758,10.4111,-68.4754,8.5,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0350,2026-06-29 01:42:32,1782711752721,10.4003,-68.4947,12.1,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0351,2026-06-29 04:18:32,1782721112726,10.0555,-68.5427,5.1,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0352,2026-06-29 07:01:34,1782730894080,10.0584,-68.5273,15.1,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0353,2026-06-29 12:13:21,1782749601841,10.5043,-67.2512,8.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0354,2026-06-29 12:40:30,1782751230166,11.211,-67.7552,6.2,2.6,mb,Corridor Cluster,Corridor
+aftershock_0355,2026-06-29 16:56:50,1782766610920,10.4049,-67.2047,14.5,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0356,2026-06-29 17:13:07,1782767587888,10.5331,-68.3988,15.7,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0357,2026-06-29 18:49:28,1782773368659,10.6474,-67.1811,6.9,3.5,mb,Central Coast Cluster,Central Coast
+aftershock_0358,2026-06-29 19:54:35,1782777275918,10.0644,-68.5564,6.5,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0359,2026-06-29 21:10:59,1782781859122,10.0277,-68.4913,9.2,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0360,2026-06-29 22:17:49,1782785869800,9.8234,-68.7434,12.7,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0361,2026-06-30 00:52:30,1782795150011,10.4861,-68.477,17.1,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0362,2026-06-30 04:15:48,1782807348071,10.4243,-68.534,12.5,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0363,2026-06-30 05:06:55,1782810415015,10.5415,-67.224,13.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0364,2026-06-30 05:14:37,1782810877595,10.3949,-67.1481,4.9,3.8,mb,Central Coast Cluster,Central Coast
+aftershock_0365,2026-06-30 15:32:51,1782847971773,10.5701,-68.3824,12.3,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0366,2026-06-30 16:48:10,1782852490240,10.7539,-67.0591,7.1,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0367,2026-06-30 17:11:46,1782853906244,10.2007,-68.4813,15.9,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0368,2026-06-30 18:28:06,1782858486833,10.5727,-67.2063,10.8,4.9,Mw,Central Coast Cluster,Central Coast
+aftershock_0369,2026-06-30 22:18:49,1782872329963,10.4034,-67.8305,7.7,2.8,mb,Corridor Cluster,Corridor
+aftershock_0370,2026-07-01 00:03:16,1782878596023,10.2538,-68.5986,12.0,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0371,2026-07-01 01:03:45,1782882225286,10.6789,-67.1598,5.5,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0372,2026-07-01 04:52:36,1782895956270,10.9942,-67.0729,5.6,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0373,2026-07-01 12:35:37,1782923737813,10.3734,-67.7756,11.2,2.6,mb,Corridor Cluster,Corridor
+aftershock_0374,2026-07-01 19:23:20,1782948200965,10.4956,-68.427,17.3,3.4,mb,Yaracuy Cluster,Yaracuy
+aftershock_0375,2026-07-01 22:29:16,1782959356850,10.3843,-68.5331,10.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0376,2026-07-02 03:44:00,1782978240287,10.1813,-67.2603,8.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0377,2026-07-02 04:21:11,1782980471131,11.1371,-66.9706,8.0,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0378,2026-07-02 05:21:38,1782984098221,10.3372,-68.419,9.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0379,2026-07-02 09:35:05,1782999305402,10.4709,-68.5048,10.2,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0380,2026-07-02 16:23:28,1783023808862,10.463,-68.6069,5.2,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0381,2026-07-02 18:41:29,1783032089492,10.4057,-68.4962,11.9,3.1,mb,Yaracuy Cluster,Yaracuy
+aftershock_0382,2026-07-02 19:02:11,1783033331650,10.2834,-67.9063,10.1,2.7,mb,Corridor Cluster,Corridor
+aftershock_0383,2026-07-03 00:50:43,1783054243389,10.5632,-67.1181,6.6,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0384,2026-07-03 01:58:44,1783058324855,10.8011,-67.0966,11.7,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0385,2026-07-03 03:15:41,1783062941207,10.6174,-67.308,12.2,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0386,2026-07-03 03:47:10,1783064830174,10.312,-68.434,12.1,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0387,2026-07-03 05:37:25,1783071445816,10.4792,-68.5243,9.5,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0388,2026-07-03 07:04:15,1783076655268,10.2027,-68.6574,9.1,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0389,2026-07-03 12:19:52,1783095592479,10.1895,-68.4364,5.3,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0390,2026-07-03 15:40:26,1783107626625,10.1668,-67.1437,13.5,3.7,mb,Central Coast Cluster,Central Coast
+aftershock_0391,2026-07-03 17:41:26,1783114886108,10.6849,-67.0728,14.8,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0392,2026-07-03 21:19:04,1783127944935,10.1004,-68.5484,6.7,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0393,2026-07-03 22:58:21,1783133901573,10.4144,-68.4806,4.6,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0394,2026-07-04 07:11:50,1783163510358,11.1275,-67.2219,10.4,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0395,2026-07-04 08:49:09,1783169349954,10.5358,-68.4531,14.9,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0396,2026-07-04 17:28:27,1783200507783,10.4786,-67.1183,10.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0397,2026-07-04 22:45:28,1783219528058,10.4465,-67.1541,8.7,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0398,2026-07-05 07:37:04,1783251424970,10.439,-68.3292,10.7,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0399,2026-07-05 14:41:50,1783276910240,10.4891,-67.2876,13.6,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0400,2026-07-05 16:24:22,1783283062335,10.768,-67.044,11.1,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0401,2026-07-06 16:00:48,1783368048908,10.4929,-68.3225,7.4,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0402,2026-07-07 04:23:26,1783412606447,10.1554,-68.5792,6.0,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0403,2026-07-07 10:01:16,1783432876996,10.5493,-67.2895,6.3,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0404,2026-07-07 15:38:44,1783453124229,10.2875,-67.2221,11.6,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0405,2026-07-07 23:10:44,1783480244949,10.6683,-68.3426,7.9,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0406,2026-07-08 02:24:07,1783491847437,10.6484,-67.1324,11.8,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0407,2026-07-08 08:31:10,1783513870331,10.7468,-67.1816,4.4,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0408,2026-07-08 16:03:48,1783541028541,10.7984,-67.1377,10.9,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0409,2026-07-08 23:59:02,1783569542596,10.0106,-67.3151,13.8,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0410,2026-07-09 10:32:48,1783607568813,10.8577,-67.1709,11.7,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0411,2026-07-09 13:41:39,1783618899356,10.5,-67.2657,8.1,3.0,mb,Central Coast Cluster,Central Coast
+aftershock_0412,2026-07-09 19:07:38,1783638458212,10.4916,-68.5053,12.7,3.3,mb,Yaracuy Cluster,Yaracuy
+aftershock_0413,2026-07-10 05:33:17,1783675997874,10.7633,-67.1775,3.0,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0414,2026-07-11 04:01:24,1783756884903,10.361,-68.544,13.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0415,2026-07-11 04:09:23,1783757363951,10.3617,-68.5292,12.7,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0416,2026-07-11 04:32:50,1783758770657,10.3497,-67.2797,10.2,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0417,2026-07-12 20:36:32,1783902992498,10.7646,-68.4329,9.2,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0418,2026-07-12 21:09:50,1783904990445,10.6427,-67.0394,13.8,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0419,2026-07-12 23:19:49,1783912789909,10.1174,-68.4829,11.3,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0420,2026-07-13 09:37:57,1783949877598,10.8157,-67.2106,5.2,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0421,2026-07-13 14:49:25,1783968565555,10.6101,-67.1527,6.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0422,2026-07-13 18:59:32,1783983572689,10.1154,-68.4521,13.9,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0423,2026-07-13 21:22:31,1783992151718,10.4227,-67.2205,7.5,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0424,2026-07-14 08:05:16,1784030716385,10.5603,-68.3984,14.3,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0425,2026-07-14 11:25:42,1784042742495,10.4856,-68.4703,14.9,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0426,2026-07-14 14:10:28,1784052628819,10.8892,-67.1234,5.4,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0427,2026-07-14 19:08:38,1784070518823,10.5182,-67.1769,8.2,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0428,2026-07-14 19:39:42,1784072382638,9.9052,-67.953,7.3,2.7,mb,Corridor Cluster,Corridor
+aftershock_0429,2026-07-15 02:16:58,1784096218881,10.6915,-68.4059,7.8,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0430,2026-07-15 11:40:08,1784130008579,10.7231,-68.3466,7.7,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0431,2026-07-15 22:39:41,1784169581396,9.9901,-68.5592,13.3,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0432,2026-07-16 13:28:07,1784222887854,10.0305,-67.8926,10.6,2.6,mb,Corridor Cluster,Corridor
+aftershock_0433,2026-07-16 13:38:14,1784223494358,10.3539,-68.5142,10.7,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0434,2026-07-16 18:53:42,1784242422004,10.3761,-67.1471,12.9,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0435,2026-07-17 01:31:44,1784266304823,10.6384,-68.5144,4.5,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0436,2026-07-17 05:23:53,1784280233995,10.5812,-68.5248,11.0,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0437,2026-07-17 11:17:22,1784301442536,10.4083,-67.8767,15.8,2.6,mb,Corridor Cluster,Corridor
+aftershock_0438,2026-07-18 09:48:41,1784382521049,10.7828,-67.1515,9.8,3.7,mb,Central Coast Cluster,Central Coast
+aftershock_0439,2026-07-18 19:26:06,1784417166050,10.4965,-67.1028,9.6,3.1,mb,Central Coast Cluster,Central Coast
+aftershock_0440,2026-07-20 15:03:39,1784574219741,10.7342,-67.2165,6.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0441,2026-07-21 09:36:22,1784640982930,10.1808,-67.8956,11.1,3.3,mb,Corridor Cluster,Corridor
+aftershock_0442,2026-07-22 10:20:22,1784730022241,10.4065,-68.4669,4.4,2.8,mb,Yaracuy Cluster,Yaracuy
+aftershock_0443,2026-07-22 20:01:12,1784764872722,10.603,-67.1933,15.5,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0444,2026-07-23 03:33:45,1784792025947,10.6443,-68.421,10.9,3.2,mb,Yaracuy Cluster,Yaracuy
+aftershock_0445,2026-07-24 19:25:47,1784935547965,10.4537,-68.5198,7.6,2.7,mb,Yaracuy Cluster,Yaracuy
+aftershock_0446,2026-07-24 23:49:32,1784951372611,10.1807,-68.5293,7.5,2.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0447,2026-07-25 21:23:47,1785029027374,11.0256,-67.1958,11.4,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0448,2026-07-26 03:12:32,1785049952153,10.7168,-67.1848,12.6,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0449,2026-07-26 05:02:01,1785056521886,10.6841,-68.4861,10.5,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0450,2026-07-26 13:07:58,1785085678788,10.748,-68.475,9.3,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0451,2026-07-27 00:55:42,1785128142037,10.1636,-67.2972,12.8,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0452,2026-07-28 13:33:12,1785259992499,10.5282,-67.1963,15.1,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0453,2026-07-29 03:51:20,1785311480252,10.8003,-67.0924,4.3,4.2,Mw,Central Coast Cluster,Central Coast
+aftershock_0454,2026-07-29 14:18:10,1785349090416,10.0721,-67.254,13.0,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0455,2026-07-29 19:11:34,1785366694396,10.2205,-68.5266,12.8,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0456,2026-07-29 20:09:27,1785370167711,10.3613,-68.4715,15.1,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0457,2026-07-31 01:39:45,1785476385492,10.415,-67.1976,11.9,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0458,2026-07-31 10:28:13,1785508093915,10.1269,-67.9412,13.4,3.5,mb,Corridor Cluster,Corridor
+aftershock_0459,2026-08-03 00:32:03,1785731523132,10.14,-68.4725,10.3,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0460,2026-08-03 10:35:15,1785767715592,10.1586,-67.1818,5.4,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0461,2026-08-03 13:25:16,1785777916541,10.4412,-67.2995,6.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0462,2026-08-03 15:30:04,1785785404685,10.2481,-67.2457,7.0,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0463,2026-08-03 21:27:58,1785806878056,10.2415,-67.2642,11.5,2.9,mb,Central Coast Cluster,Central Coast
+aftershock_0464,2026-08-04 01:37:07,1785821827909,10.822,-67.1907,12.1,3.2,mb,Central Coast Cluster,Central Coast
+aftershock_0465,2026-08-04 22:56:32,1785898592245,10.1348,-68.5634,6.5,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0466,2026-08-05 09:58:35,1785938315082,10.7319,-67.1471,9.0,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0467,2026-08-06 15:09:55,1786043395766,10.4125,-68.5988,9.0,2.6,mb,Yaracuy Cluster,Yaracuy
+aftershock_0468,2026-08-06 18:19:45,1786054785707,10.4598,-68.4709,8.9,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0469,2026-08-06 21:38:24,1786066704920,10.2443,-67.3054,9.5,3.4,mb,Central Coast Cluster,Central Coast
+aftershock_0470,2026-08-06 21:59:24,1786067964302,10.2522,-68.583,17.3,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0471,2026-08-07 19:20:21,1786144821741,10.6364,-68.311,13.8,2.9,mb,Yaracuy Cluster,Yaracuy
+aftershock_0472,2026-08-08 09:36:23,1786196183725,10.5712,-68.3039,10.0,3.0,mb,Yaracuy Cluster,Yaracuy
+aftershock_0473,2026-08-09 19:24:47,1786317887626,10.6885,-67.9259,10.9,2.6,mb,Corridor Cluster,Corridor
+aftershock_0474,2026-08-15 01:08:44,1786770524411,10.162,-68.4821,8.6,3.5,mb,Yaracuy Cluster,Yaracuy
+aftershock_0475,2026-08-15 05:55:21,1786787721814,10.4633,-67.1328,9.5,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0476,2026-08-15 14:40:26,1786819226916,10.6416,-67.1714,9.8,2.7,mb,Central Coast Cluster,Central Coast
+aftershock_0477,2026-08-15 18:04:56,1786831496733,10.579,-67.1493,17.1,2.8,mb,Central Coast Cluster,Central Coast
+aftershock_0478,2026-08-17 14:37:23,1786991843511,10.8488,-67.1761,16.2,2.5,mb,Central Coast Cluster,Central Coast
+aftershock_0479,2026-08-17 21:06:33,1787015193340,10.6967,-67.207,3.0,2.6,mb,Central Coast Cluster,Central Coast
+aftershock_0480,2026-08-19 09:05:06,1787144706542,10.5361,-67.1175,9.3,3.1,mb,Central Coast Cluster,Central Coast

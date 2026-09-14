@@ -1,0 +1,9 @@
+Parameter,Description,MLE Value,Bootstrap 95% CI Lower,Bootstrap 95% CI Upper
+mu,"mu (Background rate, events/day)",0.1000,0.1000,0.1000
+K0,K0 (Productivity scaling),0.5000,0.5000,0.5000
+c,"c (Temporal offset, days)",0.0111,0.0065,0.0183
+p,p (Omori decay power),1.0423,1.0087,1.1034
+d,"d (Spatial scale, km)",19.7786,18.1973,21.9591
+q,q (Spatial decay power),1.9305,1.8488,2.0319
+alpha,alpha (Magnitude scaling),1.7112,1.5735,1.9004
+ar,ar (Fault-strike aspect ratio),0.7818,0.7538,0.8265
